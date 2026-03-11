@@ -172,8 +172,3 @@ Set preferences → Discover page → Browse AI-curated picks
 **Yashika Singh**  
 Built as a full-stack project demonstrating AI integration, cloud authentication, and modern React development.
 
----
-
-## 📄 License
-
-MIT License — feel free to use this project as inspiration!
