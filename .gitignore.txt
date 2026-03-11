@@ -1,7 +1,0 @@
-node_modules/
-.env
-selfscanner/node_modules/
-SelfScannerBackend/node_modules/
-selfscanner/.env
-SelfScannerBackend/.env
-selfscanner/build/
