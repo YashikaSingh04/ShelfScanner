@@ -1,6 +1,6 @@
 # ShelfScanner 📚✨
 
-> An AI-powered book discovery platform that transforms any bookshelf photograph into personalised reading recommendations — built with React, Node.js, Gemini AI, and AWS Cognito.
+> An AI-powered book discovery platform that transforms any bookshelf photograph into personalised reading recommendations - built with React, Node.js, Gemini AI, and AWS Cognito.
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
@@ -243,4 +243,5 @@ COGNITO_USER_POOL_ID=your_pool_id
 
 
 MIT License — feel free to use this project as inspiration!
+
 
