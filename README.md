@@ -20,9 +20,28 @@ Simply photograph any bookshelf. Gemini AI reads every spine, cross-references t
 
 ---
 
-## 🎥 Demo
+## 📸 Screenshots
 
-*Screenshots and demo video coming soon*
+### 🏠 Home Page
+![Home Page](./screenshots/homepage.png)
+
+### ⚙️ Set Preferences
+![Preferences](./screenshots/preferences.png)
+
+### 🔍 Discover Books
+![Discover](./screenshots/discover.png)
+
+### 📷 Scan a Shelf
+![Scanner](./screenshots/scanner.png)
+
+### 📊 Shelf Results
+![Results](./screenshots/results.png)
+
+### 📖 Book Detail
+![Book Modal](./screenshots/bookmodal.png)
+
+### 💾 Reading List
+![Reading List](./screenshots/readinglist.png)
 
 ---
 
@@ -224,3 +243,4 @@ COGNITO_USER_POOL_ID=your_pool_id
 
 
 MIT License — feel free to use this project as inspiration!
+
