@@ -14,9 +14,9 @@
 
 ## 🌟 What is ShelfScanner?
 
-ShelfScanner solves a real problem for book lovers — standing in front of a bookshelf at a sale, library, or friend's home and not knowing which books are worth picking up.
+ShelfScanner solves a real problem for book lovers standing in front of a bookshelf at a sale, library, or friend's home and not knowing which books are worth picking up.
 
-Simply photograph any bookshelf. Gemini AI reads every spine, cross-references the detected books against your personal taste profile, and delivers ranked recommendations with pricing from Amazon India, Google Play Books, and Open Library — all in under 10 seconds.
+Simply photograph any bookshelf. Gemini AI reads every spine, cross-references the detected books against your personal taste profile, and delivers ranked recommendations with pricing from Amazon India, Google Play Books, and Open Library all in under 10 seconds.
 
 ---
 
@@ -221,5 +221,6 @@ COGNITO_USER_POOL_ID=your_pool_id
 ---
 
 ## 📄 License
+
 
 MIT License — feel free to use this project as inspiration!
