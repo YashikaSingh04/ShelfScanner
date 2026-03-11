@@ -237,12 +237,6 @@ COGNITO_USER_POOL_ID=your_pool_id
 
 **Yashika Singh**
 
----
-
-## 📄 License
-
-
-MIT License — feel free to use this project as inspiration!
 
 
 
