@@ -167,11 +167,6 @@ Set preferences → Discover page → Browse AI-curated picks
 
 ---
 
-## 📸 Screenshots
-
-
----
-
 ## 👩‍💻 Author
 
 **Yashika Singh**  
