@@ -1,4 +1,4 @@
-# ShelfScanner 📚✨
+# ShelfScanner 📚
 
 > An AI-powered book discovery platform that transforms any bookshelf photograph into personalised reading recommendations - built with React, Node.js, Gemini AI, and AWS Cognito.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌟 What is ShelfScanner?
+##  What is ShelfScanner?
 
 ShelfScanner solves a real problem for book lovers standing in front of a bookshelf at a sale, library, or friend's home and not knowing which books are worth picking up.
 
@@ -243,5 +243,6 @@ COGNITO_USER_POOL_ID=your_pool_id
 
 
 MIT License — feel free to use this project as inspiration!
+
 
 
