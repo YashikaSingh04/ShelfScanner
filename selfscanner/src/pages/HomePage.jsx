@@ -89,7 +89,7 @@ export default function HomePage({ setPage, prefs, setPrefs, showToast }) {
             lineHeight: 1.7, fontWeight: 300,
           }}>
             Photograph any bookshelf. Get instant, personalised recommendations
-            based on your taste — then buy directly or save for later.
+            based on your taste - then buy directly or save for later.
           </p>
           <div className="hero-actions">
             <button className="btn-primary" onClick={() => setPage("scanner")}
