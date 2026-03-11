@@ -3,7 +3,7 @@ export default function Footer() {
     <footer>
       <p>
         Shelf Scanner — built with ❤️ for book lovers ·{" "}
-        <a href="#">Privacy</a> · No account required
+        <a href="#">Privacy</a>
       </p>
     </footer>
   );
